@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+.perp .MuiTableContainer-root{
+	overflow-x:none !important;
+	overflow: none !important;
+}
+.perp .jss102{
+	max-height: none !important;
+}
+
+.perp body, .perp .MuiTableCell-body{
+	color: rgba(255, 255, 255,0.87) !important;
+	font-family: 'Rubik', sans-serif !important;
+} 
+.perp .MuiLink-root, .perp .MuiButton-root{
+	/*color: rgba(255, 255, 255,0.24) !important;*/
+}
+.perp .MuiButton-outlined{
+	color: rgba(255, 255, 255,0.24) !important;	
+}
+.perp .MuiButton-outlined:hover{
+	color:#ffffff !important;
+}
+.perp .jss240.MuiButton-root, .perp .jss162{
+	color: #ffffff;
+	font-weight: bold;
+}
+.perp .jss240.MuiButton-root:hover, .perp .jss162{
+	color: #ffffff !important;
+	/*font-weight: bold;*/
+}
+
+.perp body,.perp .MuiTableHead-root th,.perp .MuiTableRow-root:nth-of-type(even),.perp .MuiBox-root, .perp .MuiPaper-root{
+	background:rgb(24, 26, 32) !important;
+}
+.perp .jss91,.perp .jss79,.perp .jss80,.perp .jss94,.perp .jss137,.perp .jss159,.perp .jss56,.perp .jss237,.perp .jss215,.perp .jss205,.perp .jss239,.perp .jss243, .perp .jss161, .perp .jss165{
+	background:rgb(24, 26, 32) !important;
+}
+.perp html.theme-dark .chart-page{
+	background:rgb(24, 26, 32) !important;	
+}
+
+.perp .jss126{
+	margin-top: 7em;
+}
+
+.perp .jss166 .MuiInputBase-input, .perp .jss35{
+	border: 3px solid rgba(151, 151, 151, 0.25);
+	border-radius:4px;
+}
+
+.perp .MuiToggleButton-sizeSmall{
+	height: 32px !important;
+}
